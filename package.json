@@ -2,7 +2,7 @@
   "name": "asm-editor",
   "version": "0.0.1",
   "engines": {
-    "node": "^16.17.0"
+    "node": "^18.x.0"
   },
   "scripts": {
     "dev": "vite dev",
